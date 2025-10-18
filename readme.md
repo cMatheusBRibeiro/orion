@@ -8,14 +8,12 @@ Plataforma dedicada à gerenciamento de pedidos e pagamentos.
 
 ### Produtos
 
-|     | ID     | Requisito                        | Descrição                                                    |
-| --- | ------ | -------------------------------- | ------------------------------------------------------------ |
-| [ ] | REF001 | Criação de produtos              | Permitir o usuário cadastrar novos produtos                  |
-| [ ] | REF002 | Listagem de produtos             | Permitir o usuário buscar pelos produtos que criou           |
-| [ ] | REF003 | Remoção de produtos              | Permitir o usuário remover os produtos que ele havia criado  |
-| [ ] | REF004 | Atualização de produtos          | Permitir o usuário atualizar as informações de seus produtos |
-| [ ] | REF005 | Controle de estoque              | Permitir o usuário gerenciar o estoque de seus produtos      |
-| [ ] | REF006 | Cache de produtos mais acessados | Deve criar cache dos produtos mais acessados                 |
+- [ ] Criação de produtos;
+- [ ] Listagem de produtos;
+- [ ] Remoção de produtos;
+- [ ] Atualização de produtos;
+- [ ] Controle de estoque;
+- [ ] Cache de produtos mais acessados;
 
 
 
